@@ -26,13 +26,13 @@ Dos jugadores en el mismo teclado. Gana la partida el primero en llegar a 5 rond
 ## Cómo ejecutarlo
 
 **Opción A: Jugar directamente en WEB**
-1. A traves del link: ``
+1. A traves del link: `https://wascar-pujols.github.io/Tanques/`
 
-**Opción A: versión compilada**
+**Opción B: versión compilada**
 1. Ve a la sección **Releases** del repositorio y descarga `Tanques-Windows.zip`.
 2. Descomprime y ejecuta el `.exe`.
 
-**Opción B: desde Unity**
+**Opción C: desde Unity**
 1. Clona el repositorio: `git clone https://github.com/wascar-pujols/Tanques.git`
 2. Ábrelo con Unity Hub usando **Unity 6**.
 3. Abre la escena principal y pulsa Play.
